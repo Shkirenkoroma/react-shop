@@ -1,4 +1,4 @@
 # React shop project for my portfolio:
-shkirenkoroma.github.io/react-shop
+https://shkirenkoroma.github.io/react-shop
 
 
