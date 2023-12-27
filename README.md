@@ -1,4 +1,5 @@
-### Live-версия проекта доступна по ссылке https://shkirenkoroma.github.io/react-shop
+#### Live-версия проекта доступна по ссылке: https://shkirenkoroma.github.io/react-shop
+
 Проект "Магазин кибер-инвентаря"
 ![image](https://user-images.githubusercontent.com/61347452/228738918-046362d1-fc5c-4ef5-9100-76414127a6f5.png)
 При покупке инвентаря происходит визуальное отображение действия пользователя
